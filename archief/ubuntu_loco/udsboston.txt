@@ -1,0 +1,40 @@
+UDS Boston: centralising locoteam administration
+
+• what administration would we like help from Canonical for?
+∘ support points map
+∘ cms editor authentication
+∘ planet
+∘ events
+∘ (in the longer term) forum authentication (?)
+• why would we love Canonical to help?
+• unify underlying data sets:
+∘ geographical & linguistical overlap
+• center on the individual ("l'important, c'est le visage")
+∘ do I feel like a member of the Dutch language community? of the Dutch geographical community?
+‣ is the team handling my private date with due respect?
+• information property with recognised local community teams:
+∘ enable a set of extra launchpad profile fields for members
+• what's in it for canonical?
+∘ data mining (no personally identifiable information!)
+∘ more email addresses
+∘ more personal information from those who agree to share this with Canonical (not the default!)
+∘ measure local community performance better
+∘ more local community output
+‣ existing groups: increased efficiency & quality
+‣ beginning groups: easier first steps
+∘ less potential for policital tension (Kurdish, Taiwan,...)
+∘ increased shipit efficiency?
+‣ "if I request a shipit shipment, you can use this postal address"
+• what's in it for locoteams?
+∘ measure performance
+∘ administrative ease
+∘ easier and more resource sharing with other locoteams
+∘ less dependency on technical volunteers:
+‣ opening up to a less technical public becomes easier
+‣ technical continuity
+‣ reliability of locoteam services
+• local team leader
+• why not just put everything in launchpad and be done with it?
+∘ launchpad is a black box; that in itself is fine, as long as you can get your stuff out of it
+∘ a significant part of the community trust faces, distrust an isle of Mann company
+∘ local community teams have a certain autonomy

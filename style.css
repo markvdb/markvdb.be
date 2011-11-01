@@ -1,0 +1,205 @@
+/*
+ * style.css -- Style sheet for OpenStandaarden
+ * $Header: /cvsroot/os-dev/www/web/static/style.css,v 1.9 2002/07/22 20:18:41 brambi Exp $
+ */
+
+blockquote {
+    border: 1px #914b00 solid;
+    background-color: #edd67d;
+    padding: 3px;
+    text-align: justify;
+    font-style: italic;
+    font-size: small;
+    margin-bottom: 13px;
+    margin-top: 13px;
+}
+
+h1 {
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 200%;
+    color: #333333;
+    padding: 0px;
+    margin: 0px;
+}
+
+div.siteframe {
+    position: absolute;
+    width: 82%;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-top: 5px;
+}
+
+div.footer {
+    display: block;
+    clear: both;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 11px;
+    color: #ffffff;
+}
+
+div.title {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    border: 1px solid black;
+    background-color: #ffffff;
+}
+
+div.bodyframe {
+    margin-top: 10px;
+    width: 100%;
+}
+
+div.menumain {
+     /* position: absolute;  */
+     float: left;
+    width: 160px;
+    margin-left: 0px;
+    padding-left: 0px;
+    left: 0px;
+}
+
+div.menutable {
+    border: 1px solid black;
+    background-color: #ffffff;
+    margin-bottom: 6px;
+    padding: 0px;
+}
+
+div.menutabletitle {
+    border-bottom: 1px solid #914b00;
+    background-color: #edd67d;
+	font-family: verdana, arial, helvetica, sans-serif;
+
+    padding: 2px 2px 2px 6px;
+    font-size: 18px;
+}
+
+div.contentframe {
+	font-family: verdana, arial, helvetica, sans-serif;
+    border: 1px solid black;    
+    background-color: #FFFFFF;
+    position: relative; 
+    margin-left: 170px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+body {
+    background-color: #1b5f77;
+    padding-top: 0px;
+}
+
+a.footer {
+    color: #ffffff;
+}
+
+table {
+    border: none;
+    border-collapse: collapse;
+}
+
+td {
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: normal;
+    text-align: left;
+}
+
+hr {
+    color: #eeeeee;
+    background-color: transparent;
+    height: 1px;
+}
+
+h2
+{
+    color: #914b00;
+    font-size: 22px;
+    font-weight: normal;
+    border: 1px solid #edd67d;
+    border-width: 0px 0px 1px 0px;
+    padding-bottom: 0px;
+    margin-top: 6px;
+}
+
+a {
+	font-family: verdana, arial, helvetica, sans-serif;
+    font-weight: normal;
+	text-decoration: underline;
+    color: #1b5f77;
+    background-color: transparent;
+}
+
+a:active {
+    color: #1b5f77;
+    background-color:#edd67d;
+}
+
+a.nav {
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-weight: normal;
+    font-size: small;
+    display: block;
+    color: #000000;
+    text-decoration: none;
+    background-color: #ffffff;
+    padding-left: 15px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border: 0px solid #707070;
+}
+
+a.nav:hover {
+    color: #005ba0;
+}
+
+span.small {
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 60%;
+    color: #777777;
+    background-color: #ffffff;
+    padding-right: 3px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+a.user {
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 80%;
+    color: #000000;
+    display: block;
+    background-color: #ffffff;
+    margin-right: 5px;
+    text-align: right;
+    font-weight: normal;
+    border: none;
+}
+
+span.error {
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: bold;
+    color: #af071d;
+    background-color: #ffffff;
+}
+
+p {
+    #text-indent: 5%;
+    text-align: justify;
+}
+
+.rood {
+    font-weight: bold;
+    color: #a50000;
+}
+
+.groen {
+    font-weight: bold;
+    color: #00a500;
+}
